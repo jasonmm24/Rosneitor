@@ -1,0 +1,3 @@
+[console_scripts]
+simple_publisher = py_example.simple_publisher:main
+simple_subscriber = py_example.simple_subscriber:main
